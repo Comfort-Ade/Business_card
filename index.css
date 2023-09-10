@@ -1,0 +1,36 @@
+.a {
+  border: 2px solid rgb(200, 200, 224);
+  width: 40%;
+  height: 20rem;
+  margin: auto;
+  display: flex;
+}
+.cr {
+  padding: 8.3rem 7rem;
+  margin: auto;
+  background-color: darkblue;
+  color: white;
+  font-size: 3em;
+}
+.jones {
+  padding: 5rem 2rem;
+  margin: auto;
+}
+.phi {
+  color: darkblue;
+}
+.b {
+  border: 2px solid rgb(200, 200, 224);
+  color: white;
+  background-color: darkblue;
+  width: 40%;
+  height: 20rem;
+  margin: auto;
+}
+.man {
+  padding: 4rem 5rem;
+  text-align: center;
+}
+hr {
+  width: 50%;
+}
